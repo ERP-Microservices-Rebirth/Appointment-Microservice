@@ -13,7 +13,7 @@
 	<artifactId>Appointment-Microservice</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Appointment-Microservice</name>
-	<description>A CRM rest backend application written in Spring Boot. It allows you to create customers and appointments for your customers.</description>
+	<description>A CRM rest backend application written in Spring Boot. It allows you to create appointments for your customers.</description>
 	<properties>
 		<java.version>1.8</java.version>
 		<spring-cloud.version>2020.0.4</spring-cloud.version>
